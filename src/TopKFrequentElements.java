@@ -6,6 +6,7 @@ public class TopKFrequentElements {
     public static void main(String[] args) {
       int[] nums = {1,1,1,2,2,3,3,3,3};
       int k =2;
+        System.out.println("checking git");
       System.out.println(Arrays.toString(topK(nums, k)));
     }
 
