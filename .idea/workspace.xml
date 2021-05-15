@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77576dd7-f378-4d4f-9215-5d7a9373ae67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kBQItbeQTCNF29mmBEGRGhiYaz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Images" />
+  </component>
+  <component name="RunManager" selected="Application.TopKFrequentElements">
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeIntervals" />
+      <module name="TechieDelight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePolishNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReversePolishNumber" />
+      <module name="TechieDelight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInaSortedRotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchInaSortedRotatedArray" />
+      <module name="TechieDelight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchRange" />
+      <module name="TechieDelight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TopKFrequentElements" />
+      <module name="TechieDelight" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TopKFrequentElements" />
+        <item itemvalue="Application.SearchInaSortedRotatedArray" />
+        <item itemvalue="Application.MergeIntervals" />
+        <item itemvalue="Application.SearchRange" />
+        <item itemvalue="Application.ReversePolishNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77576dd7-f378-4d4f-9215-5d7a9373ae67" name="Default Changelist" comment="" />
+      <created>1605171427426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605171427426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="0" width="700" height="728" key="#largestSumSubarray" timestamp="1613307181697">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="0" width="700" height="728" key="#largestSumSubarray/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307181697" />
+    <state x="348" y="-859" key="FileChooserDialogImpl" timestamp="1613549687783">
+      <screen x="-342" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="348" y="-859" key="FileChooserDialogImpl/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613549687783" />
+    <state width="1311" height="107" key="GridCell.Tab.0.bottom" timestamp="1621081229968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.bottom/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307332521" />
+    <state width="1311" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232621" />
+    <state width="1311" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621081229968" />
+    <state width="1311" height="107" key="GridCell.Tab.0.center" timestamp="1621081229968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.center/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307332521" />
+    <state width="1311" height="157" key="GridCell.Tab.0.center/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232621" />
+    <state width="1311" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621081229968" />
+    <state width="1311" height="107" key="GridCell.Tab.0.left" timestamp="1621081229968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.left/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307332521" />
+    <state width="1311" height="157" key="GridCell.Tab.0.left/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232621" />
+    <state width="1311" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621081229968" />
+    <state width="1311" height="107" key="GridCell.Tab.0.right" timestamp="1621081229968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="269" key="GridCell.Tab.0.right/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307332521" />
+    <state width="1311" height="157" key="GridCell.Tab.0.right/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232621" />
+    <state width="1311" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621081229968" />
+    <state width="1311" height="232" key="GridCell.Tab.1.bottom" timestamp="1621069794576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="157" key="GridCell.Tab.1.bottom/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307326325" />
+    <state width="1311" height="157" key="GridCell.Tab.1.bottom/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232199" />
+    <state width="1311" height="232" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621069794576" />
+    <state width="1311" height="232" key="GridCell.Tab.1.center" timestamp="1621069794576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="157" key="GridCell.Tab.1.center/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307326325" />
+    <state width="1311" height="157" key="GridCell.Tab.1.center/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232199" />
+    <state width="1311" height="232" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1621069794576" />
+    <state width="1311" height="232" key="GridCell.Tab.1.left" timestamp="1621069794576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="157" key="GridCell.Tab.1.left/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307326325" />
+    <state width="1311" height="157" key="GridCell.Tab.1.left/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232199" />
+    <state width="1311" height="232" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1621069794576" />
+    <state width="1311" height="232" key="GridCell.Tab.1.right" timestamp="1621069794576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1865" height="157" key="GridCell.Tab.1.right/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613307326325" />
+    <state width="1311" height="157" key="GridCell.Tab.1.right/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613307232199" />
+    <state width="1311" height="232" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1621069794576" />
+    <state x="63" y="0" key="SettingsEditor" timestamp="1613306493840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="63" y="0" key="SettingsEditor/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613306493840" />
+    <state x="92" y="-866" key="com.intellij.ide.util.TipDialog" timestamp="1613549630413">
+      <screen x="-342" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="92" y="-866" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613549630413" />
+    <state x="309" y="150" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613306091418" />
+    <state x="0" y="0" key="new project wizard" timestamp="1617901410819">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1617901410819" />
+    <state x="16" y="-853" key="run.anything.popup" timestamp="1613306177205">
+      <screen x="-342" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="16" y="-853" key="run.anything.popup/0.0.1366.728/-342.-1080.1920.1040@-342.-1080.1920.1040" timestamp="1613306177205" />
+    <state x="255" y="159" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1613040493854" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1613306477072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728/-342.-1080.1920.1040@0.0.1366.728" timestamp="1613306477072" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>85</line>
+          <properties class="Solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>148</line>
+          <properties class="Solution" method="groupAnagrams">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>165</line>
+          <properties class="Solution" method="groupAnagrams">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CountBits.java</url>
+          <line>4</line>
+          <properties class="CountBits" method="trappingWater">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/list_2D.java</url>
+          <line>31</line>
+          <properties class="list_2D" method="countUnvisited">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/slidingWindow.java</url>
+          <line>9</line>
+          <properties class="slidingWindow" method="maxConsecutiveSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/largestSumSubarray.java</url>
+          <line>7</line>
+          <properties class="largestSumSubarray" method="maxSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Nqueen.java</url>
+          <line>44</line>
+          <properties class="Nqueen" method="utility">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Nqueen.java</url>
+          <line>62</line>
+          <properties class="Nqueen" method="helper">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ReversePolishNumber.java</url>
+          <line>8</line>
+          <properties class="ReversePolishNumber" method="evalRPN">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SearchRange.java</url>
+          <line>8</line>
+          <properties class="SearchRange" method="searchRange">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MergeIntervals.java</url>
+          <line>30</line>
+          <properties class="MergeIntervals">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SearchInaSortedRotatedArray.java</url>
+          <line>5</line>
+          <properties class="SearchInaSortedRotatedArray" method="search">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass1.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/slidingWindow.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
